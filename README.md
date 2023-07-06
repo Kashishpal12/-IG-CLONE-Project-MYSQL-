@@ -1,4 +1,4 @@
-# -IG-CLONE-Project-MYSQL-
+# -AD CAMPAIGN-Project-MYSQL-
 Problem Statement - There was a companmy name 'Epic' which used to conduct many competitions on their portal by running an Ad campaign.
 The ultimate Goal of the project was to help the company to identify the current duration to run an Ad campaign so that maximum users can be targeted and encourage the inactive users to relogin to the portal and participate in various competition run by them.
 
