@@ -1,5 +1,5 @@
 # -AD CAMPAIGN-Project-MYSQL-
-Problem Statement - There was a companmy name 'Epic' which used to conduct many competitions on their portal by running an Ad campaign.
+Problem Statement- Company named 'Epic' which used to conduct many competitions on their portal by running an Ad campaign.
 The ultimate Goal of the project was to help the company to identify the current duration to run an Ad campaign so that maximum users can be targeted and encourage the inactive users to relogin to the portal and participate in various competition run by them.
 
 Roles and Responsibilty - My roles and responsibilty was to perform data extraction by using MYSQL database and capture key insights of the data which can be beneficail for the company to make data driven decisions.
